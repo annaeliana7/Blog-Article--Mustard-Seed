@@ -39,18 +39,22 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 NAME OF PROJECT<a name="about-project"></a>
+# 📖 Blog Article- Mustard Seed<a name="about-project"></a>
 
-**Name of Project** is a project ...complete sentence
+**Blog Article- Mustard Seed** 
+<br>
+
+The Mustard Seed Repository is a beautifully designed single-page blog that utilizes HTML5 and CSS3. It features a header embedded in a visually appealing image, a well-composed blog post, and a user-friendly button for easy navigation to the main menu. The development process was enhanced using linters and Visual Studio Code, and the final product was published on GitHub Pages.
 
 <br>
 
 ## 🛠 Built With <a name="built-with"></a>
-    HTML
-    CSS
-    Javascript (ES6)
-    Webpack
+    HTML5
+    CSS3
     Linters
+    Visual Studio Code
+    GitHub
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -62,7 +66,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[Name of Project](https://ADD LINK.git)
+[Blog Article- Mustard Seed](https://annaeliana7.github.io/Blog-Article--Mustard-Seed/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -73,9 +77,9 @@
 
 - Open the command prompt in the created directory.
 
-- On the terminal run this command git clone `https://github.com/annaeliana7/ADD LINK.git`
+- On the terminal run this command git clone `https://github.com/annaeliana7/Blog-Article--Mustard-Seed.git`
 
-- Go to the repository folder using command prompt cd `NAME OF PROJECT`
+- Go to the repository folder using command prompt cd `Blog Article- Mustard Seed`
 
 - Install the dev dependencies for linters run npm install.
 
@@ -96,9 +100,9 @@ Clone this repository to your desired folder:
 
 - Open the command prompt in the created directory.
 
-- On the terminal run this command git clone https://ADD LINK.git
+- On the terminal run this command git clone https://github.com/annaeliana7/Blog-Article--Mustard-Seed.git
 
-- Go to the repository folder using command prompt cd NAME-OF-FILE
+- Go to the repository folder using command prompt cd Blog Article- Mustard Seed
 
 - Install the dev dependencies for linters run npm install.
 --->
@@ -119,9 +123,8 @@ Anna Petras
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- Implement some UX improvements: added transitions and/or animation.
+- Implement some UX improvements
 
-- Implement additional pages.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -130,7 +133,7 @@ Anna Petras
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://ADD LINK.git).
+Feel free to check the [issues page](https://github.com/annaeliana7/Blog-Article--Mustard-Seed/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -157,6 +160,7 @@ This project is [MIT](./LICENSE) licensed.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <br>
+
 
 <!-- Author's message --> 
 
