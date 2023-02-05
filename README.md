@@ -66,7 +66,7 @@ The Mustard Seed Repository is a beautifully designed single-page blog that util
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[Blog Article- Mustard Seed](https://annaeliana7.github.io/Blog-Article--Mustard-Seed/)
+[Blog Article- Mustard Seed](https://annaeliana7.github.io/Blog-Article--Mustard-Seed/dist)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
